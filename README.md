@@ -18,7 +18,7 @@ End-to-end loading of final models (*.pkl), generation of predictions, and test-
 df_full.csv
 Final modelling table at plot–season level: BAS outcomes and controls joined to the consolidated environmental features. Used to create the train/validation/test splits.
 environmental_features_data_dictionary_edited.xlsx
-Data dictionary for the consolidated environmental feature set (definitions, units, and transformations).
+Data dictionary for the consolidated environmental feature set.
 environmental_features.csv
 Merged environmental feature matrix by location–season (BMD + NASA), used as the join key for BAS.
 feature_groups.pkl
