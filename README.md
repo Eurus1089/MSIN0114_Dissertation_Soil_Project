@@ -1,2 +1,3 @@
 # MSIN0114_Dissertation_Soil_Project
-## For prediction or reproduction of the project, please refer to the file "Soil Project Summary.docx".
+## 1. For prediction only, please download "Prediction_UI_files.zip" (contains all files you need) and refer to Section 7 of "Soil Project Summary.docx" for how to use. 
+## 2. To reproduce the whole project, please refer to Section C of the Appendix in "Soil Project Summary.docx".
